@@ -15,10 +15,10 @@ BasketEvaluator is an app that allows to put items in a virtual basket and go to
   
   
 
-[![Simulator_Screen_Shot_6_Oct_2017_00.09.53.png](https://s1.postimg.org/643klf2psv/Simulator_Screen_Shot_6_Oct_2017_00.09.53.png)]()
-[![Simulator_Screen_Shot_6_Oct_2017_00.09.54.png](https://s1.postimg.org/9k5wdid00f/Simulator_Screen_Shot_6_Oct_2017_00.09.54.png)]()
-[![Simulator_Screen_Shot_6_Oct_2017_00.09.57.png](https://s1.postimg.org/73jnyl6r9b/Simulator_Screen_Shot_6_Oct_2017_00.09.57.png)]()
-[![Simulator_Screen_Shot_6_Oct_2017_00.10.02.png](https://s1.postimg.org/26b74qsk0v/Simulator_Screen_Shot_6_Oct_2017_00.10.02.png)]()
+[![Simulator_Screen_Shot_6_Oct_2017_00.09.53.png](https://s1.postimg.org/8fee3re7an/Simulator_Screen_Shot_6_Oct_2017_00.09.53.png)]()
+[![Simulator_Screen_Shot_6_Oct_2017_00.09.54.png](https://s1.postimg.org/3lpj7mud2n/Simulator_Screen_Shot_6_Oct_2017_00.09.54.png)]()
+[![Simulator_Screen_Shot_6_Oct_2017_00.09.57.png](https://s1.postimg.org/1j9qjkxhrj/Simulator_Screen_Shot_6_Oct_2017_00.09.57.png)]()
+[![Simulator_Screen_Shot_6_Oct_2017_00.10.02.png](https://s1.postimg.org/2m9fugsgrz/Simulator_Screen_Shot_6_Oct_2017_00.10.02.png)]()
   
   
 ## Requirements
