@@ -8,7 +8,7 @@
   
 
 
-BasketEvaluator is an app that allows to put items in a virtual basket and go to the checkout showing the total amount of the cart in different currencies. It includes Unit Testing.  
+BasketEvaluator is an app that allows to put items in a virtual basket and go to the checkout showing the total amount of the cart with the possibility to chose different currencies. 
 
   
 
