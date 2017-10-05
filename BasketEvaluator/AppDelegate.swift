@@ -12,7 +12,16 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    
+    // the factory of the application
+    var applicationFactory: ApplicationFactoryService!
+    
+    override init() {
+        super.init()
+        // create all objects / resolve all dependencies via factories
+        // (i.e. pass to the data factory the objects created by the client factory)
+        applicationFactory = ApplicationFactory(urlSession: URLSession.shared)
+    }
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
@@ -40,7 +49,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func applicationWillTerminate(_ application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
 
 }
 
